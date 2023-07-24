@@ -9,7 +9,7 @@ body {
 }
 
 /*removing underline from header links */
-}
+
 a:link, a:visited {
 	text-decoration: none;
 	color:black;
