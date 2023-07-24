@@ -5,7 +5,9 @@
 body {
 	font-family: Helvetica;
 	font-size:10px;
+	margin: 10px;
 }
+
 /*removing underline from header links */
 }
 a:link, a:visited {
@@ -22,6 +24,8 @@ p {
 	width: 600px;
 
 }
+
+
 /* removes bullet points from list */
 li {
 	list-style: none;
